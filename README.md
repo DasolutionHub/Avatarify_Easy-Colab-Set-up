@@ -1,4 +1,4 @@
-# 🔥 Avatarify Colab (AutoNgrok Edition by Jeff)
+# 🔥 Avatarify Colab (Mac Client Edition by Dasolutionhub)
 
 
 
