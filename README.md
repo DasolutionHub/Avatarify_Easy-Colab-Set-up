@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dasolutionhub/avatarify-colab-mac-guide/raw/main/AvatarifyColabBanner.png" alt="Avatarify Colab Banner" />
+</p>
+
 # 🔥 Avatarify Colab (Mac Client Edition by Dasolutionhub)
 
 
