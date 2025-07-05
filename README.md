@@ -33,9 +33,3 @@ https://colab.research.google.com/drive/1dhVHUs289yLnQIvzS3PGs0Xjf-2-8esz?usp=sh
 
 ---
 
-## 🚀 How to Use
-
-### 1. Clone or download this repo:
-```bash
-git clone https://github.com/DasolutionHub/Avatarify_Easy-Colab-Set-up.git
-cd Avatarify_Easy-Colab-Set-up
