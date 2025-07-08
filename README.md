@@ -9,7 +9,7 @@
 This is a simplified, enhanced version of Avatarify powered by Google Colab and ngrok — designed for **easy setup, long sessions, and stability**.\
 Perfect for using Avatarify with your **Mac client** + Colab worker combo, even without a GPU!
 
-[![Open In Colab](https://colab.research.google.com/drive/1SEQsNRGwgtbBBD2CASJ07GMrPAYg4YIy?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SEQsNRGwgtbBBD2CASJ07GMrPAYg4YIy?usp=sharing)
 
 ---
 
